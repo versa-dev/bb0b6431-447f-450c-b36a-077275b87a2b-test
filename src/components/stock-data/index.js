@@ -38,7 +38,7 @@ export default function StockData() {
       {
         !data && isClicked &&
         <div className="mt-50 slide-up-fade-in" id="no-result" data-testid="no-result">
-          No Results found
+          No Results Found
         </div>
       }
     </div>
